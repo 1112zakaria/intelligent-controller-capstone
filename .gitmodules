@@ -1,0 +1,9 @@
+[submodule "intelligent-controller-ui-client"]
+	path = intelligent-controller-ui-client
+	url = git@github.com:1112zakaria/intelligent-controller-ui-client.git
+[submodule "intelligent-controller-ui-server"]
+	path = intelligent-controller-ui-server
+	url = git@github.com:1112zakaria/intelligent-controller-ui-server.git
+[submodule "Time-Series-Forecasting"]
+	path = Time-Series-Forecasting
+	url = git@github.com:PatrickLiu0610/Time-Series-Forecasting.git
