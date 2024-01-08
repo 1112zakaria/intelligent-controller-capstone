@@ -7,3 +7,6 @@
 [submodule "Time-Series-Forecasting"]
 	path = Time-Series-Forecasting
 	url = git@github.com:PatrickLiu0610/Time-Series-Forecasting.git
+[submodule "matlab-network-simulation"]
+	path = matlab-network-simulation
+	url = git@github.com:1112zakaria/matlab-network-simulation.git
